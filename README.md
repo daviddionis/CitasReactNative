@@ -9,8 +9,8 @@ Se integra Async Storage para guardar las citas en la memoria del movil.
 ### Screen
 
 
-<img src="docs/screen1.jpg">
-<img src="docs/screen2.jpg">
-<img src="docs/screen3.jpg">
-<img src="docs/screen4.jpg">
-<img src="docs/screen5.jpg">
+<img src="docs/screen1.jpg" height="500">
+<img src="docs/screen2.jpg" height="500">
+<img src="docs/screen3.jpg" height="500">
+<img src="docs/screen4.jpg" height="500">
+<img src="docs/screen5.jpg" height="500">
